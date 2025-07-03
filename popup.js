@@ -40,7 +40,8 @@ document.addEventListener('DOMContentLoaded', function () {
       "https://raining.fm/",
       "https://findtheinvisiblecow.com/",
       "https://dinosaurgame.io/",
-      "https://koalastothemax.com/"
+      "https://koalastothemax.com/",
+      "https://websim.com/"
     ];
 
     const randomIndex = Math.floor(Math.random() * websites.length);
