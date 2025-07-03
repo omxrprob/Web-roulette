@@ -26,9 +26,23 @@ document.addEventListener('DOMContentLoaded', function () {
       "https://ismycomputeron.com/",
       "https://dood.al/pinktrombone/",
       "https://www.retrogames.cc/",
-      "https://zty.pe/"
+      "https://zty.pe/",
+      "https://nzp.gay/",
+      "https://heeeeeeeey.com/",
+      "https://theuselessweb.com/",
+      "https://staggeringbeauty.com/",
+      "https://thispersondoesnotexist.com/",
+      "https://mondrianandme.com/",
+      "https://ncase.me/ballot/",
+      "https://neal.fun/draw-perfect-circle/",
+      "https://longdogechallenge.com/",
+      "https://paint.toys/",
+      "https://raining.fm/",
+      "https://findtheinvisiblecow.com/",
+      "https://dinosaurgame.io/",
+      "https://koalastothemax.com/"
     ];
-    
+
     const randomIndex = Math.floor(Math.random() * websites.length);
     const randomWebsite = websites[randomIndex];
     chrome.tabs.create({ url: randomWebsite });
