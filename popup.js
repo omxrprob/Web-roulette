@@ -41,7 +41,16 @@ document.addEventListener('DOMContentLoaded', function () {
       "https://findtheinvisiblecow.com/",
       "https://dinosaurgame.io/",
       "https://koalastothemax.com/",
-      "https://websim.com/"
+      "https://websim.com/",
+      "https://pixelsfighting.com/",
+      "https://procatinator.com/",
+      "https://toobigtouse.com/",
+      "https://gravitypoints.com/",
+      "https://cat-bounce.com/",
+      "https://zoomquilt.org/",
+      "https://ninjaflex.com/",
+      "https://trypap.com/",
+      "https://crouton.net/"
     ];
 
     const randomIndex = Math.floor(Math.random() * websites.length);
